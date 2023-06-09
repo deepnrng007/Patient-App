@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007847809172",
+    "project_id": "dev-patient--app",
+    "storage_bucket": "dev-patient--app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007847809172:android:776f785f3654b61e2a5481",
+        "android_client_info": {
+          "package_name": "com.episodesolutions.enavpatient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007847809172-j64v116vjetu423jtnf3o26i1n8u7fhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XKnrBcnJ5ZhFmGBb9odRyq8-_xhE4-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007847809172-j64v116vjetu423jtnf3o26i1n8u7fhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
